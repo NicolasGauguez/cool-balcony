@@ -3,7 +3,6 @@ ruby '2.6.6'
 
 gem 'bootsnap', require: false
 gem 'pg', '~> 1.1'
-
 gem 'rails', '~> 6.1.1'
 gem 'redis'
 gem 'faker'
